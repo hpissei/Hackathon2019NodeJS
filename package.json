@@ -4,9 +4,9 @@
   "description": "<Description about your application>",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "circular-json": "^0.5.9",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mssql": "^ 3.3.0",
     "nodemon": "^1.19.1"
   },
